@@ -1,3 +1,5 @@
+![Seagull with Knife Logo](https://github.com/SeagullWithKnife/Seagull-With-Knife/blob/main/Sea-logo.jpg)
+
 # Seagull with Knife ($SEA)
 A meme coin with a purpose—raising awareness for ocean preservation.
 
